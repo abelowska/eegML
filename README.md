@@ -5,3 +5,4 @@ Repository for Machine Learning in Neuroscience classes for Cognitive Science UJ
 1. [Simple linear regression](https://github.com/abelowska/eegML/blob/main/Classes_02_linear_regression.ipynb)
 2. [Multiple linear regression](https://github.com/abelowska/eegML/blob/main/Classes_02_multiple_variables_linear_regression.ipynb)
 3. [Simple linear regression on perfectionism. Basic use of MNE-Python](https://github.com/abelowska/eegML/blob/main/Classes_03_simple_regression_on_perfectionism.ipynb)
+4. [Support Vector Machine, KNN and DecisionTree Regressors. Composite estimators](https://github.com/abelowska/eegML/blob/main/Classes_04_nonlinear_regression_pipelines.ipynb)
